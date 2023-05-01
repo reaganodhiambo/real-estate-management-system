@@ -4,6 +4,6 @@ __pycache__/
 *.pyc
 *.log
 /staticfiles/
-/Images/
+Images/
 migrations/
 
